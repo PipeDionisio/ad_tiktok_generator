@@ -1,6 +1,8 @@
 🎬 AI-Powered Short Video Generator with Avatar & Captions (n8n Workflow)
 This project automates the creation of short-form videos (like Reels or TikToks) using product descriptions. It generates an AI script, image prompts, avatar voiceover, and video with captions—completely hands-free.
 
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/ScXV6klZuMg/maxresdefault.jpg)](https://youtube.com/shorts/ScXV6klZuMg)
+
 🧠 AI Agent Prompt Logic
 Your AI agent acts as a scriptwriter and visual planner, performing the following tasks:
 Extracts product name + key benefit from a product URL (e.g., Amazon or Shopify).
