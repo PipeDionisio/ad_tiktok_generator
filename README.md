@@ -12,6 +12,9 @@ Sends data to Heygen API for avatar generation and voiceover.
 Builds video with alternating avatar placement, synced voiceover, and captions.
 Outputs the video file.
 
+<img width="1492" height="450" alt="image" src="https://github.com/user-attachments/assets/21534808-881a-47b5-b2e2-050bf2bfdce4" />
+
+
 ✨ Output Format (from AI Agent)
 json
 Copy
