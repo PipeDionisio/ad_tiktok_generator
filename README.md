@@ -1,21 +1,13 @@
 🎬 AI-Powered Short Video Generator with Avatar & Captions (n8n Workflow)
 This project automates the creation of short-form videos (like Reels or TikToks) using product descriptions. It generates an AI script, image prompts, avatar voiceover, and video with captions—completely hands-free.
 
-Inspired by this: Instagram Reel Reference
-
 🧠 AI Agent Prompt Logic
 Your AI agent acts as a scriptwriter and visual planner, performing the following tasks:
-
 Extracts product name + key benefit from a product URL (e.g., Amazon or Shopify).
-
 Writes a 4–6 line persuasive video script in a natural, influencer-style tone.
-
 Generates matching image prompts for each line of the script (DALL·E or similar).
-
 Sends data to Heygen API for avatar generation and voiceover.
-
 Builds video with alternating avatar placement, synced voiceover, and captions.
-
 Outputs the video file.
 
 ✨ Output Format (from AI Agent)
